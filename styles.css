@@ -1,1 +1,33 @@
 /* Write your CSS here! */
+body {
+    background-color: lightblue;
+    margin-top: 8px;
+    text-align: center;
+    display: block;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding bottom: 30px;
+    
+  }
+  
+  #mainHeading {
+    font-size:40px;
+    color: red;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  #testP {
+    color: green;
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+  p {
+      color: green;
+      font-family: verdana;
+      font-size: 20px;
+  }
+
+ 
