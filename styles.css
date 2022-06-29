@@ -18,7 +18,7 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
   
-  #testP {
+  .testP {
     color: green;
     font-family: verdana;
     font-size: 20px;
