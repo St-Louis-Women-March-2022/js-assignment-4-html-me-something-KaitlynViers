@@ -2,9 +2,6 @@
 body {
     background-color: lightblue;
     margin-top: 8px;
-    margin-bottom: 8px;
-    margin-left: 8px;
-    margin-right: 8px;
     text-align: center;
     display: block;
     padding-left: 30px;
@@ -20,8 +17,14 @@ body {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
+
+  #testP {
+    color: green;
+    font-family: verdana;
+    font-size: 20px;
+  }
   
-  .testP {
+  .funParagraph {
     color: green;
     font-family: verdana;
     font-size: 20px;
